@@ -1,5 +1,5 @@
 {
-  "version":"1.03",
+  "version":"1.04",
   "url":"https://huynhquoc1990.github.io/Gas27.githup.io/firmware.bin",
-  "ListDevice":["KC868-T01-V02","KC868-02-01"]
+  "ListDevice":["KC868-T01-V02", "KC868-T01-V03", "KC868-02-01"]
 }
